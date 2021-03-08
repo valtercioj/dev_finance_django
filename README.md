@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/devfinances.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
