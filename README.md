@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://raw.githubusercontent.com/rocketseat-education/maratona-discover-01/main/.github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
