@@ -36,7 +36,7 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover).
+Você pode visualizar o projeto através [desse link](https://mysite-dev-finance.netlify.app/).
 
 ## :memo: Licença
 
